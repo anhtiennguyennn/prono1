@@ -5,4 +5,4 @@ What are you doing
 - git status
 - git add .
 - git commit -m "write something"
-- git push
+- git push orgin main
