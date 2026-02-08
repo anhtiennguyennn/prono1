@@ -1,8 +1,10 @@
 What are you doing
 
-- git clone "Ctrl V https"
-
-- git status
-- git add .
-- git commit -m "write something"
-- git push orgin main
+Option 1:
+- Tao 1 GitHub repository (folder) - noi chua code
+- Clone project nay: git clone link_your_repo
+- Viet code
+- git status (kiem tra trang thai files)
+- git add . (them files)
+- git commit -m "your_message" (tao noi dung commit)
+- git push origin main
